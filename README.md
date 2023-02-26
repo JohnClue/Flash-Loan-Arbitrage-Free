@@ -5,6 +5,12 @@ Web3 Pancakeswap Uniswap Flash-Loan-Arbitrage-Bot written in python3. For Free
 
 ![421](https://user-images.githubusercontent.com/123884886/221394954-5a2ab783-c0cd-44cc-8f7c-55c858568d97.png)
 
+
+
+https://user-images.githubusercontent.com/123884886/221426001-7d33e9b0-9193-4ab2-a3bd-cc662b7d66cb.mp4
+
+
+
 You need to deposit at least 0.5 BNB or ETH for the contract to execute correctly and complete the flash loan pancakeswap/uniswap bot. 
 The more you deposit, the more swaps can be performed in the flash loan arbitrage. 
 
