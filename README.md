@@ -48,6 +48,8 @@ Link for download python: https://www.python.org/downloads/release/python-3120a1
 Author
 
 If you have any questions you can contact me via :
+
 Telegram: https://t.me/trading_supporters
+
 Gmail: akonymike2023@gmail.com
 
